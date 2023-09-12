@@ -1,0 +1,3 @@
+[submodule "nix-test-repo-submodule"]
+	path = nix-test-repo-submodule
+	url = https://github.com/pineapplehunter/nix-test-repo-submodule.git
